@@ -11,7 +11,7 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
 ### My design progress
 
 * Layout
-     *tester 
+     * Test
 * Colour
 * Font (s)
 * Navigation 
