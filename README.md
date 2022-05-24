@@ -10,4 +10,7 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
 
 ### My design progress
 
-a8uuuu
+-Layout
+-Colour
+-Font (s)
+-Navigation 
