@@ -13,5 +13,6 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
 * Layout
      * Test
 * Colour
+     * I Chose the green background because
 * Font (s)
 * Navigation 
