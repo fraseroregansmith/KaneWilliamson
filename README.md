@@ -2,7 +2,6 @@
 
 ### Members of the Dev team 
 - Fraser O'Regan Smith
-- Kane Williamson 
 
 ### About my project 
 
