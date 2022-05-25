@@ -11,8 +11,9 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
 ### My design progress
 
 * Layout
-     * Test
+     * Layout is designed for easy and quick use, and no confusion about what is happening by simple navigation
 * Colour
-     * I Chose the green background because
+     * I Chose the bright green background and the bright header colours to make them stand out and be brigt 
 * Font (s)
 * Navigation 
+     * 
