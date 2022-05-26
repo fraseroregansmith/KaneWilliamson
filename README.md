@@ -16,4 +16,4 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
 * Font (s)
 * Navigation 
 * Image choices
-     * My image choices were designed to sum up Kane effectively in as little images as possible
+     * My image choices were designed to sum up Kane effectively in as little images as possible.
