@@ -5,7 +5,7 @@
 
 ### About my project 
 
-My Project is about New Zealand cricket superstar and captain, Kane Williamson. The Website has 4 Main pages. The Main page, ( index ) which is a bit of bio and information about kane. There is also a button you can click to translate in into Te reo Māori.  The Images page includes images of kane, and then underneath a bit of information about them. Then there is the stats page, which includes all his careen stats and his noticeable achievements. 
+My Project is about New Zealand cricket superstar and captain, Kane Williamson. The Website has 4 Main pages. The Main page, ( index ) which is a bit of bio and information about kane. There is also a button you can click to translate in into Te reo Māori.  The Images page includes images of kane, and then underneath a bit of information about them. Then there is the stats page, which includes all his careen stats and his noticeable achievements. Kane Williamson is one of my favourite cricket players and very likely the greatest New Zealand has ever seen, so that is why I chose him for this project.
 
 ### My design progress
 
