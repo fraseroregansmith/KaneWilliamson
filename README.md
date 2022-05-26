@@ -15,4 +15,4 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
      * I Chose the bright green background and the bright header colours to make them stand out and be brigt 
 * Font (s)
 * Navigation 
-     * 
+* Image choices
