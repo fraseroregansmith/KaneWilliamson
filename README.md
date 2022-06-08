@@ -14,7 +14,7 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
 * Colour
      * I Chose the bright green background and the bright header colours to make them stand out and be brigt 
 * Font (s)
-     * I used default font because I really dont like all the weird fancy ones, my eyes dont like them much
+     * I used default font because I really dont like all the weird fancy ones, my eyes dont like them much. Its just a lot smoother to read the plain font, and with some of the fancy fonts you actually have to look closely what the letter actually is!
 * Navigation 
      * Designed for easy Nav
 * Image choices
