@@ -19,3 +19,8 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
      * Designed for easy Nav
 * Image choices
      * My image choices were designed to sum up Kane effectively in as little images as possible.
+
+
+
+
+My Website works the same on Google, Firefox and Microsoft edge. 
