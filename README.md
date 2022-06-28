@@ -24,3 +24,4 @@ My Project is about New Zealand cricket superstar and captain, Kane Williamson. 
 
 
 My Website works the same on Google, Firefox and Microsoft edge. 
+* Screenshots of all my pages are found on this doc: https://docs.google.com/document/d/1BGrhp_k9nQ0Rr3ekMzL2tIZZ_Tiz-2ge85RutUMhTz0/edit
