@@ -1,0 +1,226 @@
+@charset "UTF-8";
+
+:root {
+    --primary: #ddd;
+    --dark: #333;
+    --light: #fff;
+    --shadow: 0 7px 15px rgba(104. 104, 104, 0.8);
+}
+
+.wrapper {
+    display: grid;
+    gap: 20px;
+}
+
+
+html {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--dark);
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+
+
+body {
+    background: rgb(0, 255, 0);
+    margin: 20px 20px;
+    line-height: 1.4em;
+}
+
+.main-nav ul {
+    display: grid;
+    gap: 60px;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.main-nav a {
+    background: var(--primary );
+    display: block;
+    text-decoration:none;
+    padding: 0.8rem;
+    text-align: center;
+    color: #000000;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    box-shadow: var(--shadow);
+    border-radius: 17px 17px 17px 17px;
+}
+
+.main-nav a:hover{
+    background: rgb(9, 240, 248); 
+    color: rgb(0, 0, 0);
+}
+
+header h2:hover {
+    color:#3c6df1;
+}
+
+header p:hover {
+    color:#0f5721;
+}
+
+
+
+
+/*
+body {
+    margin: 0;
+    height: 100vh;
+}
+*/
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+
+  .grid-container1 {
+    display: grid;
+    gap: 15px;
+    grid-template-columns: 0.8fr 0.8fr 0.8fr;
+    grid-template-rows: 0.8fr 0.8fr 0.8fr 0.8fr;
+    grid-template-areas: "pic1 pic2 pic3" "pic4 pic5 pic6" "pic7 pic8 pic9";
+    height: 170vh;
+    margin: 1em;    
+}
+
+section.pic1 {
+    grid-area: pic1;
+    background: #fffadf;
+    background-image: url('../images/backfootpunch.webp');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section.pic2 {
+    grid-area: pic2;
+    background: #fffadf;
+    background-image: url('../images/kane.jpg');
+    object-fit: cover;
+    background-position: center;
+    /*background-repeat: no-repeat;*/
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section.pic3 {
+    grid-area: pic3;
+    background: #fffadf;
+    background-image: url('../images/kane-in-ND.jpg');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section.pic4 {
+    grid-area: pic4;
+    background: #fffadf;
+    background-image: url('../images/kaneinsrh.webp');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section.pic5 {
+    grid-area: pic5;
+    background: #fffadf;
+    background-image: url('../images/century.jpg');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section.pic6 {
+    grid-area: pic6;
+    background: #fffadf;
+    background-image: url('../images/Kane-Williamson-with-wife-Sarah-Raheem.webp');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section.pic7 {
+    grid-area: pic7;
+    background: #fffadf;
+    background-image: url('../images/mugshot.png');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section.pic8 {
+    grid-area: pic8;
+    background: #fffadf;
+    background-image: url('../images/trophykane.webp');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+
+section.pic9 {
+    grid-area: pic9;
+    background: #fffadf;
+    background-image: url('../images/kane-with-icc-cwc.webp');
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+
+
+
