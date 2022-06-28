@@ -27,4 +27,4 @@ My Website works the same on Google, Firefox and Microsoft edge.
 * Screenshots of all my pages are found on this doc: https://docs.google.com/document/d/1BGrhp_k9nQ0Rr3ekMzL2tIZZ_Tiz-2ge85RutUMhTz0/edit
 
 * What did I struggle with on making the website?
-    * test
+    * I found it annoying making the Māori pages, because after every edit I did on the english page, I had to put it back into the translator each time. Also super annoying because the google translate to Māori is not the best. 
