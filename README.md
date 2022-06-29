@@ -28,3 +28,5 @@ My Website works the same on Google, Firefox and Microsoft edge.
 
 * What did I struggle with on making the website?
     * I found it annoying making the Māori pages, because after every edit I did on the english page, I had to put it back into the translator each time. Also super annoying because the google translate to Māori is not the best. 
+
+* "I liked your website lots, it was informative, eye catching, and taught me about new cricket player" Comment from classmate, Nico.
